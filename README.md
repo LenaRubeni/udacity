@@ -1,4 +1,4 @@
-# #Udacity
+## Udacity
 
 This repository contains all information concerning the Udacity Nanodegree Programm *Data Scientist*.
 
@@ -8,7 +8,7 @@ The code is in the format of a jupyter notebook and can be accessed accordingly.
 
 ## Installation
 
-#Dependencies
+# Dependencies
 
 - numpy
 - pandas
@@ -21,8 +21,8 @@ The code is in the format of a jupyter notebook and can be accessed accordingly.
 
 You can easily install the packages in the following way:
 
-<pip install '...'>
-
-
+```
+pip install '...'>
+```
 
 A blog post for my findings can be found here:
