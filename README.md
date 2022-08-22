@@ -22,7 +22,7 @@ The code is in the format of a jupyter notebook and can be accessed accordingly.
 You can easily install the packages in the following way:
 
 ```
-pip install '...'>
+pip install numpy
 ```
 
 A blog post for my findings can be found here:
